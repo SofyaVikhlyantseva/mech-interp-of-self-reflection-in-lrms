@@ -1,0 +1,586 @@
+[
+  {
+    "question_id": 3,
+    "gt": 237,
+    "question": "Let $A$ be the set of positive integer divisors of $2025$. Let $B$ be a randomly",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 4,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the probability that a randomly selected subset B of the set A (which consists of the positive integer divisors of 2025) is nonempty and has the property that the least common multiple (LCM) of its elements is 2025. Then, express this probability as a reduced fraction m/n and find m + n. Alright, let me start by understanding the problem step by step.\n\nFirst, let me recall ",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 6,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the probability that a randomly selected subset B of the set A (which is the set of positive integer divisors of 2025) is nonempty and has the property that the least common multiple (LCM) of its elements is 2025. Then, express this probability as a reduced fraction m/n and find m + n. Alright, let's break this down step by step.\n\nFirst, let me recall that 2025 is a specifi",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 5,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the probability that a randomly selected subset B of the set A (which consists of the positive integer divisors of 2025) is nonempty and has the property that the least common multiple (LCM) of its elements is 2025. Then, express this probability as a reduced fraction m/n and find m + n. Alright, let me start by understanding the problem step by step.\n\nFirst, let me recall ",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 3,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the probability that a randomly selected subset B of the set A (which is the set of positive integer divisors of 2025) is nonempty and has the property that the least common multiple (LCM) of its elements is exactly 2025. Then, express this probability as a reduced fraction m/n and find m + n. Alright, let me start by understanding the problem step by step.\n\nFirst, let me r",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 7,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the probability that a randomly selected subset B of the set A (which consists of the positive integer divisors of 2025) is a nonempty set such that the least common multiple (LCM) of its elements is 2025. Then, express this probability as a reduced fraction m/n and find m + n. Alright, let me start by understanding the problem step by step.\n\nFirst, let me recall that 2025 ",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 3,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the probability that a randomly selected subset B of the set A (which consists of the positive integer divisors of 2025) is a nonempty set where the least common multiple (LCM) of its elements is exactly 2025. Then, express that probability as a reduced fraction m/n and find m + n. Alright, let's start by understanding the problem step by step.\n\nFirst, let me recall that 20",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "gt": 19,
+    "question": "Let $A_1 A_2 A_3 \\ldots A_{11}$ be an $11$-sided non-convex simple polygon with ",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to solve this problem about an 11-sided non-convex simple polygon with specific area and cosine conditions, and then find the sum of certain terms. Let me try to break it down step by step.\n\nFirst, let me restate the problem to make sure I understand it. We have a polygon A₁A₂A₃…A₁₁, which is non-convex and simple (so it doesn't intersect itself). The key properties are:\n\n1. For ea",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to solve this problem about an 11-sided non-convex simple polygon. Let me try to parse all the given information and figure out how to approach it.\n\nFirst, the polygon is labeled $ A_1, A_2, A_3, \\ldots, A_{11} $. It's non-convex and simple, which means it doesn't intersect itself, but it has at least one interior angle greater than 180 degrees. \n\nThe problem gives three conditions",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 2,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to solve this problem about an 11-sided non-convex simple polygon. Let me try to parse the problem step by step.\n\nFirst, the polygon is labeled A₁, A₂, ..., A₁₁. It's non-convex and simple, which means it doesn't intersect itself. The problem gives three conditions:\n\n1. For every integer 2 ≤ i ≤ 10, the area of triangle A_i A₁ A_{i+1} is equal to 1.\n2. For every integer 2 ≤ i ≤ 10,",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 3,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to solve this problem about an 11-sided non-convex simple polygon. Let me try to parse the problem step by step.\n\nFirst, the polygon is labeled A₁A₂A₃…A₁₁. It's non-convex and simple, which means it doesn't intersect itself. The problem gives three conditions:\n\n1. For every integer 2 ≤ i ≤ 10, the area of triangle A_iA₁A_{i+1} is equal to 1.\n2. For every integer 2 ≤ i ≤ 10, the cos",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 6,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to solve this problem about an 11-sided non-convex simple polygon. Let me try to parse the problem step by step.\n\nFirst, the polygon is labeled $ A_1, A_2, A_3, \\ldots, A_{11} $. It's non-convex and simple, which means it doesn't intersect itself. \n\nThe problem gives three conditions:\n\n1. For every integer $ 2 \\leq i \\leq 10 $, the area of triangle $ \\triangle A_i A_1 A_{i+1} $ is ",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to solve this problem about an 11-sided non-convex simple polygon with specific properties. Let me try to parse all the given information and figure out how to approach it.\n\nFirst, the polygon is labeled A₁A₂A₃…A₁₁. It's non-convex and simple, which means it doesn't intersect itself and has at least one interior angle greater than 180 degrees. But maybe that detail isn't immediatel",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question_id": 10,
+    "gt": 293,
+    "question": "Circle $\\omega_1$ with radius $6$ centered at point $A$ is internally tangent at",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 7,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to create this TikZ diagram. First, I need to understand what the user is asking for. They provided a code snippet that seems to be a TikZ picture, but it's incomplete or maybe they want help understanding or modifying it. Let me look at the code they provided.\n\nThe code starts with a TikZ picture environment. There are several nodes defined: A, B, C, D, E, F, G,",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 8,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to approach this problem. So, the user provided a TikZ code that draws a diagram with two circles and some lines connecting points. The labels are A, B, C, D, E, F, G, H, and there are two omega labels, ω₁ and ω₂. The user might be asking about the properties of this diagram, maybe something related to circles, intersections, or geometric relationships. \n\nFirst, ",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 9,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out what this TikZ code is drawing. First, I need to understand the structure of the code. The user provided a TikZ picture with coordinates and some circles and lines. Let me go through it step by step.\n\nStarting with the coordinates: there are points A, B, C, D, E, F, G, H. The coordinates are defined with some variables. Let me check the code again. Wait, the code has",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 10,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to create this TikZ diagram. The user provided a code snippet, but I need to understand what they're trying to achieve. Let me start by breaking down the code they have.\n\nFirst, they set up the TikZ picture environment. Then, they define coordinates for points A, B, C, D, E, F, G, H. Wait, but looking at the code, they have coordinates for A, B, C, D, E, F, G, H.",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 6,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to create this TikZ diagram. First, I need to understand what the user is asking for. They provided a code snippet that seems to be a TikZ drawing, but maybe they want help explaining it or modifying it? Wait, the user's message is in Chinese, but the code is in English. Let me check the original query again.\n\nWait, no, the user's message is actually in English. ",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 5,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out the answer to this geometry problem. Let me start by understanding what's given and what's being asked. The problem mentions a diagram with two circles, labeled ω₁ and ω₂, and several points labeled A through H. There's a point O, which I assume is the center of one of the circles. The circles are drawn with radii r₁ and r₂, and there are lines connecting various poin",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question_id": 12,
+    "gt": 204,
+    "question": "Alex divides a disk into four quadrants with two perpendicular diameters interse",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the expected number of regions created by 27 line segments on a disk. The disk is divided into four quadrants by two perpendicular diameters. Then, Alex draws 25 more line segments, each connecting two random points on the perimeter, but each segment connects points in different quadrants. The question is asking for the expected number of regions these 27 lines divide the d",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 10,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the expected number of regions created by 27 line segments on a disk. The disk is divided into four quadrants by two perpendicular diameters. Then, Alex draws 25 more line segments. Each of these 25 segments is drawn by selecting two points at random on the perimeter of the disk, but these points are in different quadrants. Then, connecting those two points. So, the total n",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 3,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the expected number of regions created by 27 line segments on a disk. The disk is divided into four quadrants by two perpendicular diameters. Then, Alex draws 25 more line segments, each connecting two points on the perimeter of the disk, but these points are in different quadrants. The question is asking for the expected number of regions these 27 lines divide the disk int",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 4,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the expected number of regions created by 27 line segments on a disk. The disk is divided into four quadrants by two perpendicular diameters. Then, Alex draws 25 more line segments. Each of these 25 segments is drawn by selecting two points at random on the perimeter of the disk, but these points are in different quadrants. Then, connecting those two points. So, the total n",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 10,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the expected number of regions created by 27 line segments on a disk. The disk is divided into four quadrants by two perpendicular diameters. Then Alex draws 25 more line segments. Each of these 25 segments is drawn by selecting two points at random on the perimeter of the disk, but these points are in different quadrants. Then we connect those two points. So the total numb",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 11,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the expected number of regions created by 27 line segments on a disk. The disk is divided into four quadrants by two perpendicular diameters. Then, Alex draws 25 more line segments. Each of these 25 segments is drawn by selecting two points at random on the perimeter of the disk, but these points are in different quadrants. Then, connecting those two points. The question is",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question_id": 13,
+    "gt": 49,
+    "question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find all positive integers n such that n + 2 divides the product 3(n + 3)(n² + 9). Then, sum all those n's. Let me start by understanding the problem step by step.\n\nFirst, the problem says that n + 2 divides 3(n + 3)(n² + 9). In mathematical terms, this means that when we divide 3(n + 3)(n² + 9) by n + 2, there should be no remainder. So, (n + 2) | 3(n + 3)(n² + 9). \n\nTo approac",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 5,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find all positive integers n such that n + 2 divides the product 3(n + 3)(n² + 9). Then, sum all those n's. Hmm, let me think about how to approach this.\n\nFirst, let me write down the problem again to make sure I have it right: Find all positive integers n where n + 2 divides 3(n + 3)(n² + 9). Then sum those n's. Alright.\n\nSo, the key here is divisibility. That is, n + 2 divides",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 2,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find all positive integers n such that n + 2 divides the product 3(n + 3)(n² + 9). Then, sum all those n's. Let me start by understanding the problem.\n\nFirst, the problem says that n + 2 divides 3(n + 3)(n² + 9). So, mathematically, this means that when we divide 3(n + 3)(n² + 9) by n + 2, there's no remainder. In other words, 3(n + 3)(n² + 9) is a multiple of n + 2. So, I need ",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 3,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find all positive integers n such that n + 2 divides the product 3(n + 3)(n² + 9). Then, sum all those n's. Let me start by understanding the problem.\n\nFirst, the problem says that n + 2 divides 3(n + 3)(n² + 9). So, mathematically, this means that when we divide 3(n + 3)(n² + 9) by n + 2, there's no remainder. In other words, 3(n + 3)(n² + 9) ≡ 0 mod (n + 2). \n\nLet me recall th",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 2,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find all positive integers n such that n + 2 divides the product 3(n + 3)(n² + 9). Then sum all those n. Hmm, let me think about how to approach this.\n\nFirst, let me write down the problem again to make sure I have it right:\n\nFind the sum of all positive integers n such that n + 2 divides 3(n + 3)(n² + 9).\n\nSo, mathematically, we need to find all positive integers n where (n + 2",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 6,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find all positive integers n such that n + 2 divides the product 3(n + 3)(n² + 9). Then, sum all those n's. Let me start by understanding the problem step by step.\n\nFirst, the problem says that n + 2 divides 3(n + 3)(n² + 9). In mathematical terms, this means that when we divide 3(n + 3)(n² + 9) by n + 2, there should be no remainder. So, (n + 2) | 3(n + 3)(n² + 9). \n\nTo approac",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question_id": 19,
+    "gt": 588,
+    "question": "On $\\triangle ABC$ points $A, D, E$, and $B$ lie in that order on side $\\overlin",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 4,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to approach this problem. So, the user provided a TikZ code that draws a diagram with several points labeled A to N. The question is probably about understanding the diagram or solving a geometric problem related to it. Since the user hasn't specified the exact question, I need to infer based on the diagram.\n\nFirst, I'll try to visualize the diagram. The TikZ cod",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 2,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to approach this problem. So, the user provided a TikZ diagram with several points labeled A to G and M, N. The question is probably about understanding the relationships between these points or maybe solving a geometric problem based on the diagram. But since the user hasn't explicitly stated the question, I need to infer based on the diagram.\n\nFirst, let me vis",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 6,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to solve this problem. So, the question is about a triangle ABC with points D, E, F on the sides, and then points M and N. Wait, the original problem might be about some properties or maybe a specific question? Hmm, the user hasn't provided the exact question, but looking at the TikZ code, there's a diagram with points A, B, C, D, E, F, G, M, N. Maybe it's relate",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 10,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to solve this geometry problem. So, the question is about a triangle ABC with points D, E, F on the sides, and then points M and N. Wait, actually, the original problem might be in Chinese, but the user provided a TikZ diagram. Let me see.\n\nFirst, the diagram shows triangle ABC. Points D, E, F are on the sides. Let me check the coordinates. Wait, no, the TikZ cod",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 2,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to approach this problem. So, the user provided a TikZ code that draws a diagram with several points labeled A to N. The question is probably about understanding the relationships between these points or maybe solving a geometric problem based on the diagram. But since the user hasn't specified the exact question, I need to make some assumptions.\n\nFirst, let me v",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 6,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, let me try to figure out how to solve this geometry problem. So, the question is about a triangle ABC with points D, E, F on sides AB, BC, and AC respectively. Then there are points M and N, and we need to find the ratio of AM to MN. Hmm, the problem mentions some lines and triangles, so maybe I need to use similar triangles or coordinate geometry?\n\nFirst, let me visualize the diagram. There",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question_id": 22,
+    "gt": 279,
+    "question": "There are $8!= 40320$ eight-digit positive integers that use each of the digits ",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the number of eight-digit numbers using each digit from 1 to 8 exactly once that are divisible by 22. Then, subtract 2025 from that number to get the answer. Let me start by recalling what divisibility by 22 means.\n\nDivisibility by 22 means the number must be divisible by both 2 and 11, since 22 is 2 times 11 and they are coprime. So, I need to find permutations of the digi",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 5,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the number of eight-digit numbers using each digit from 1 to 8 exactly once that are divisible by 22. Then, subtract 2025 from that number to get the answer. Let me start by recalling what divisibility by 22 means.\n\nFirst, 22 factors into 2 and 11. So, for a number to be divisible by 22, it must be divisible by both 2 and 11. That makes sense. So, I need to find permutation",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the number of eight-digit numbers using each digit from 1 to 8 exactly once that are divisible by 22. Then, subtract 2025 from that number to get the answer. Let me start by recalling what divisibility by 22 means. \n\nDivisibility by 22 means the number must be divisible by both 2 and 11, since 22 is 2 times 11, and 2 and 11 are coprime. So, I need to ensure that the number ",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 4,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the number of eight-digit numbers using each digit from 1 to 8 exactly once that are divisible by 22. Then, subtract 2025 from that number to get the answer. Let me start by recalling what divisibility by 22 means.\n\nDivisibility by 22 means the number has to be divisible by both 2 and 11, since 22 is 2 times 11 and they are coprime. So, I need to find all permutations of th",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the number of eight-digit numbers using each digit from 1 to 8 exactly once that are divisible by 22. Then subtract 2025 from that number to get the answer. Let me start by recalling what divisibility by 22 means.\n\nDivisibility by 22 means the number must be divisible by both 2 and 11. So I need to ensure that the eight-digit number meets the divisibility rules for 2 and 11",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to find the number of eight-digit numbers using each digit from 1 to 8 exactly once that are divisible by 22. Then, subtract 2025 from that number to get the answer. Let me start by recalling what divisibility by 22 means.\n\nDivisibility by 22 means the number must be divisible by both 2 and 11, since 22 is 2 times 11 and they are coprime. So, I need to find permutations of the digi",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question_id": 23,
+    "gt": 16,
+    "question": "The 9 members of a baseball team went to an ice-cream parlor after their game. E",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so there's this problem about a baseball team with 9 members who went to an ice-cream parlor. Each player had a single-scoop cone, and they could choose chocolate, vanilla, or strawberry. The conditions are that at least one player chose each flavor, and the number of players who chose chocolate is greater than those who chose vanilla, which in turn is greater than those who chose strawberry",
+        "answer": ""
+      },
+      {
+        "vector": "genuine_hc",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so there's this problem about a baseball team with 9 members who went to an ice-cream parlor. Each player had a single-scoop cone, and the flavors are chocolate, vanilla, or strawberry. The conditions are that at least one player chose each flavor, and the number of players who chose chocolate is greater than the number who chose vanilla, which in turn is greater than the number who chose st",
+        "answer": ""
+      },
+      {
+        "vector": "all_wait",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so there's this problem about a baseball team with 9 members who went to an ice cream parlor. Each player had a single scoop of chocolate, vanilla, or strawberry. The conditions are that at least one player chose each flavor, and the number of players who chose chocolate is greater than the number who chose vanilla, which in turn is greater than the number who chose strawberry. We need to fi",
+        "answer": ""
+      },
+      {
+        "vector": "dom_combined",
+        "coeff": 40,
+        "markers": 1,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so there's this problem about a baseball team with 9 members who went to an ice-cream parlor. Each player had a single-scoop cone, and the flavors are chocolate, vanilla, or strawberry. The conditions are that at least one player chose each flavor, and the number of players who chose chocolate is greater than the number who chose vanilla, which in turn is greater than the number who chose st",
+        "answer": ""
+      },
+      {
+        "vector": "error_cf",
+        "coeff": 40,
+        "markers": 2,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so we have this problem about a baseball team with 9 members who went to an ice-cream parlor. Each player had a single-scoop cone, and the flavors available are chocolate, vanilla, or strawberry. The conditions are that at least one player chose each flavor, and the number of players who chose chocolate is greater than the number who chose vanilla, which in turn is greater than the number wh",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": 40,
+        "markers": 0,
+        "tokens": 600,
+        "predicted": null,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so there's this problem about a baseball team with 9 members who went to an ice-cream parlor. Each player had a single-scoop cone, and they could choose chocolate, vanilla, or strawberry. The conditions are that at least one player chose each flavor, and the number of players who chose chocolate is greater than the number who chose vanilla, which in turn is greater than the number who chose ",
+        "answer": ""
+      }
+    ]
+  }
+]
