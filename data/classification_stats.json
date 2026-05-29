@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "total_markers": 1013,
+    "genuine_count": 484,
+    "genuine_percentage": 47.78,
+    "stylistic_count": 524,
+    "stylistic_percentage": 51.73,
+    "unclear_count": 5,
+    "unclear_percentage": 0.49
+  },
+  "confidence_distribution": {
+    "high": 704,
+    "medium": 308,
+    "low": 1
+  },
+  "marker_stats": {
+    "wait": {
+      "total": 924,
+      "genuine": 443,
+      "stylistic": 478,
+      "unclear": 3,
+      "confidence_high": 654,
+      "confidence_medium": 269,
+      "confidence_low": 1
+    },
+    "actually": {
+      "total": 89,
+      "genuine": 41,
+      "stylistic": 46,
+      "unclear": 2,
+      "confidence_high": 50,
+      "confidence_medium": 39,
+      "confidence_low": 0
+    },
+    "that's not right": {
+      "total": 0,
+      "genuine": 0,
+      "stylistic": 0,
+      "unclear": 0,
+      "confidence_high": 0,
+      "confidence_medium": 0,
+      "confidence_low": 0
+    },
+    "hold on": {
+      "total": 0,
+      "genuine": 0,
+      "stylistic": 0,
+      "unclear": 0,
+      "confidence_high": 0,
+      "confidence_medium": 0,
+      "confidence_low": 0
+    }
+  },
+  "category_stats": {
+    "conflicting": {
+      "total": 181,
+      "genuine": 104,
+      "stylistic": 76,
+      "unclear": 1
+    },
+    "ambiguous": {
+      "total": 363,
+      "genuine": 106,
+      "stylistic": 254,
+      "unclear": 3
+    },
+    "math_trick": {
+      "total": 469,
+      "genuine": 274,
+      "stylistic": 194,
+      "unclear": 1
+    }
+  },
+  "generated_at": "2026-03-11T22:12:18.611904"
+}
