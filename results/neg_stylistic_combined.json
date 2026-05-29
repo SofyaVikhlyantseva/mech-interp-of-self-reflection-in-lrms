@@ -1,0 +1,882 @@
+[
+  {
+    "prompt": "What is the capital of Australia? Think step by step.",
+    "gt": "Canberra",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 476,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so I need to figure out the capital of Australia. Let me start by recalling what I know. I remember that Australia is a country in the Southern Hemisphere, and it's known for its unique wildlife and landscapes. But when it comes to capitals, I'm a bit fuzzy. I think the capital is a city, but I'm not sure which one.\n\nWait, I remember that some countries have their capital cities named after people or have historical significance. For example, the United States has Washington, D.C., named a",
+        "answer": "The capital of Australia is **Canberra**. Here's a step-by-step breakdown:\n\n1. **Understanding"
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out the capital of Australia. Let me start by recalling what I know. I remember that Australia is a country in the southern hemisphere, and it's known for things like the Great Barrier Reef, Uluru, and its unique wildlife. But when it comes to capitals, I'm a bit fuzzy.\n\nFirst, I should clarify if Australia is a country or a continent. Wait, Australia is both a country and a continent. The country is called the Commonwealth of Australia, and it's a sovereign nation. The",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 373,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so I need to figure out the capital of Australia. Let me start by recalling what I know about Australia. I know it's a country in the Southern Hemisphere, and it's known for its unique wildlife like kangaroos and koalas. I also remember that it's a large country with a lot of different regions, including cities like Sydney and Melbourne. But I'm not sure which one is the capital.\n\nWait, I think the capital is a city that's not as well-known as Sydney or Melbourne. Maybe it's in the middle ",
+        "answer": "The capital of Australia is **Canberra**. Here's a step-by-step breakdown:\n\n1. **Understanding the Context**: Australia is a federation of six states and two major territories. While cities like Sydney (New South Wales) and Melbourne (Victoria) are major urban centers, they are not the national capital.\n\n2. **Federal Structure**: Australia's federal government operates independently of the states. The national capital is not part of any state but is instead a federal territory.\n\n3. **Historical Background**: When Australia became a federation in 1901, there was a need for a central capital. Sydney and"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 4,
+        "tokens": 457,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so I need to figure out what the capital of Australia is. Let me start by recalling what I know. I remember that Australia is a country, and it's a continent as well, but I think the country is called Australia. Now, the question is about the capital city. I think I've heard that the capital is Canberra, but I'm not entirely sure. Wait, maybe I'm mixing it up with another country. Let me think.\n\nI know that Sydney is a major city in Australia, and it's a big city, but I think it's not the ",
+        "answer": "The capital of Australia is **Canberra**. Here's a step-by-step breakdown:\n\n1. **Understanding the Context**: Australia is both a country and a continent. The question refers to the capital of"
+      }
+    ]
+  },
+  {
+    "prompt": "How many days are in a leap year? Think carefully.",
+    "gt": "366",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 482,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the question is asking how many days are in a leap year. Hmm, I remember that a regular year has 365 days, but a leap year has one extra day. Wait, but why does a leap year have an extra day? Let me think. I think it's because the Earth takes about 365 and a quarter days to orbit the Sun. So, to account for that extra quarter day, we add an extra day every four years. That makes sense. So, normally, a year is 365 days, but in a leap year, it's 366 days. But wait, is that all? I think th",
+        "answer": "A leap year consists of **366 days**. This is because,"
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the question is asking how many days are in a leap year. Hmm, let me think. I remember that a regular year has 365 days, right? But a leap year is different. I think it has one extra day. But wait, which day is that?\n\nI recall that leap years occur every four years. So maybe they add an extra day to February? Yeah, that sounds familiar. So in a normal year, February has 28 days, but in a leap year, it has 29. That must be it. So if I take the regular number of days in a year, which is 3",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 454,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the question is asking how many days are in a leap year. Let me think about this carefully. I remember that a regular year has 365 days, but a leap year has one extra day. But I need to recall exactly how that works.\n\nFirst, I think leap years are determined by certain rules. The basic rule is that a leap year occurs every four years. So if you divide the year by 4, if it's divisible by 4, it's a leap year. But there are exceptions, right? Like if the year is divisible by 100, it's not ",
+        "answer": "A leap year has **366 days**. \n\nThis is because a regular year has 365 days, and a leap year adds an extra day to account for the Earth's orbit around the Sun taking"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out how many days are in a leap year. Let me start by recalling what I know about leap years. I remember that leap years have an extra day compared to regular years, but I'm not exactly sure how it works. Let me think.\n\nFirst, I know that a regular year has 365 days. But then there's this thing called a leap year, which I think adds an extra day. Wait, but why? I think it has something to do with the Earth's orbit around the Sun. The Earth takes about 365.25 days to orb",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "What is 2 + 2? Explain your answer step by step.",
+    "gt": "4",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the user is asking, \"What is 2 + 2? Explain your answer step by step.\" Hmm, that seems pretty straightforward, but maybe they want a detailed breakdown. Let me think. First, I should confirm that 2 + 2 is a basic arithmetic problem. The answer is 4, but I need to explain the steps.\n\nAlright, starting with the basics. Addition is combining two numbers. So, 2 and 2. Let me visualize it. If I have two objects and add another two objects, how many do I have in total? Like, two apples plus t",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out what 2 + 2 is. Let me start by recalling what the plus sign means. From what I remember in math, the plus sign (+) is used to indicate addition, which means combining two quantities. So when I see 2 + 2, it's like saying \"2 and 2 combined.\"\n\nFirst, I should probably visualize this. Maybe using objects would help. If I have two apples and then add two more apples, how many apples do I have in total? Let me count. One apple, two apples, three apples, four apples. Wait",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 0,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the user is asking \"What is 2 + 2?\" and wants an explanation step by step. Let me think about how to approach this. First, I need to make sure I understand the question correctly. It's a basic arithmetic problem, but since the user is asking for a step-by-step explanation, I should break it down in a way that's clear and thorough.\n\nI should start by recalling the basic principles of addition. Addition is one of the fundamental operations in mathematics, and it involves combining two num",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out what 2 + 2 is. Let me start by recalling what addition means. From what I remember, addition is a basic arithmetic operation that combines two numbers to find their total. So, when you add 2 and 2, you're essentially combining two groups of two items each. \n\nWait, maybe I should break it down more. Let me think about how numbers work. If I have two objects, like apples, and then I add another two apples, how many apples do I have in total? Let me count. If I have tw",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "What color is the sky on a clear day? Think carefully.",
+    "gt": "blue",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 297,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the question is asking what color the sky is on a clear day. Hmm, I know that the sky is usually blue, but maybe there's more to it. Let me think. I remember something about Rayleigh scattering. Oh right, when sunlight hits the atmosphere, the shorter wavelengths like blue and violet scatter more than the longer ones. But why do we see blue instead of violet?\n\nWait, maybe because our eyes are more sensitive to blue light. Also, the sun emits more blue light than violet. So even though v",
+        "answer": "The sky appears blue on a clear day due to a phenomenon called **Rayleigh scattering**. Here's a concise breakdown:\n\n1. **Sunlight and Atmosphere**: Sunlight, which contains all visible wavelengths of light, enters Earth's atmosphere. \n2. **Scattering of Light**: Shorter wavelengths (blue and violet) scatter more efficiently in the atmosphere than longer wavelengths (red, orange, yellow). \n3. **Human Perception**: While violet light scatters the most, the sun emits more blue light than violet. Additionally, the human eye is more sensitive to blue than violet. \n4. **Result**: The scattered blue light dominates our visual perception, making the sky appear **blue** during the day. \n\n**Exceptions**: \n- During sunrise or sunset, the sky appears red or orange because sunlight travels through more atmosphere, scattering out the blue light and leaving longer wavelengths.\n- On cloudy days, the sky may appear white or gray due to the presence of clouds.\n\n**Answer"
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the question is asking what color the sky is on a clear day. At first glance, it seems pretty straightforward. I mean, when the weather is nice and sunny, the sky is usually blue, right? But wait, maybe there's more to it. Let me think carefully.\n\nI remember learning in school about how the sky gets its color. The basic idea is that sunlight is white, but it's made up of different colors. When sunlight passes through the Earth's atmosphere, the gases and particles in the air scatter the",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 0,
+        "tokens": 431,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the question is asking what color the sky is on a clear day. At first glance, it seems straightforward. I know that the sky is usually blue on a clear day. But maybe I should think more deeply about why that is the case.\n\nI remember learning something about Rayleigh scattering. I think it's related to how light interacts with the atmosphere. The sun emits white light, which is a combination of all colors. When sunlight enters Earth's atmosphere, the different wavelengths of light scatte",
+        "answer": "The sky appears **blue** on a clear day. This phenomenon is primarily due to **Rayleigh scattering**, a process where sunlight interacts with the molecules and small particles in Earth's atmosphere. Here's a breakdown of the reasoning:\n\n1. **Sunlight Composition**: Sunlight is white light, composed of all visible wavelengths (colors)."
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 5,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the user is asking, \"What color is the sky on a clear day?\" Hmm, I need to think about this carefully. Let me start by recalling what I know about the color of the sky.\n\nI remember from school that the sky appears blue because of Rayleigh scattering. But wait, why does that happen? Oh right, sunlight is scattered by the atmosphere. The molecules in the air scatter shorter wavelengths more than longer ones. Since blue light has a shorter wavelength than red, it gets scattered more, makin",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "Name the days of the week in order.",
+    "gt": "Monday",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 9,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, the user is asking to name the days of the week in order. Let me think about how to approach this.\n\nFirst, I need to recall the correct sequence. The days are Monday through Sunday, right? Wait, but sometimes people might start with Sunday. Hmm, but in most countries, the week starts on Monday. However, in some cultures, like in the US, the week often starts on Sunday. Wait, but the user didn't specify a region. Maybe I should mention both possibilities? Or stick to the international stand",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 280,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, the user is asking to name the days of the week in order. Let me start by recalling the standard sequence. In English, the days are Monday through Sunday. Wait, but I should make sure I'm not mixing up any. Let me list them out again to confirm.\n\nFirst day is Monday, then Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. That's seven days. Let me count again: Monday (1), Tuesday (2), Wednesday (3), Thursday (4), Friday (5), Saturday (6), Sunday (7). Yep, that's correct. \n\nI shoul",
+        "answer": "The days of the week in order are:  \n**Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.**<|im_end|>"
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, the user is asking to name the days of the week in order. Let me think about how to approach this.\n\nFirst, I need to recall the correct sequence. The days of the week are Monday through Sunday. But I should make sure I have the order right. Let me start from Sunday and go through the week. Wait, no, in some countries the week starts on Monday. But in the Gregorian calendar, which is widely used, the week typically starts on Sunday. However, in many contexts, especially in English-speaking ",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 6,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, the user is asking to name the days of the week in order. Let me think about how to approach this.\n\nFirst, I need to recall the correct sequence. I know that the days start with Sunday, but wait, in some countries like the UK, they might start with Monday. However, the standard international order is usually Sunday through Saturday. Wait, no, actually, in many English-speaking countries, the week starts on Monday. Hmm, this might be a point of confusion. Let me double-check.\n\nWait, the Gre",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "What language do people speak in France? Think step by step.",
+    "gt": "French",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 1,
+        "tokens": 297,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, the user is asking what language people speak in France. Let me start by recalling what I know. France is a country in Europe, right? The official language is French, which is a Romance language. But wait, I should make sure there aren't other languages spoken there. I remember that France has a lot of regions with different cultures, like the Basque Country, which might have Basque as a regional language. Also, there are areas with significant immigrant populations, so languages like Arab",
+        "answer": "The primary language spoken in France is **French**, which is the official language of the country. Here's a step-by-step breakdown:\n\n1. **Official Language**:  \n   - **French** is the official language of France, used in government, education, media, and daily life. It is the dominant language across the country.\n\n2. **Regional Languages**:  \n   - **Basque** (Euskara): Spoken in the Basque Country (Pays Basque), a region in the southwest of France.  \n   - **Occitan**: A Romance language spoken in the Occitanie region (southeastern France).  \n   - **Alsatian/German**: In the Alsace-Lorraine region, some people speak Alsatian (a dialect of German) or French, influenced by historical German rule.  \n   - **Corsican**: Spoken in Corsica, an island in the Mediterranean, though it is not officially recognized as a regional language.\n\n3."
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 433,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so I need to figure out what languages people speak in France. Let me start by recalling what I know. France is a country in Europe, right? I remember that French is the official language there. But I think there are other languages too, especially in regions with different cultural backgrounds.\n\nFirst, the main language. I'm pretty sure it's French. But why? Maybe because of the government and education system. France has been a major French-speaking country for a long time, so French is ",
+        "answer": "In France, the primary and official language is **French** (French: *français*). Here's a step-by-step breakdown:\n\n1. **Official Language**:  \n   - **French** is the sole official language of France, used in government, education, media, and daily life. It is the"
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 0,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, the user is asking what language people speak in France. Let me start by recalling the basics. France is a country in Western Europe, so I know that French is the official language there. But I should make sure I'm not missing any other languages.\n\nFirst, I need to confirm that French is the primary language. I remember that French is the official language of France, and it's widely spoken there. But there might be other languages spoken as well. For example, in regions like Alsace and Lor",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, the user is asking what language people speak in France. Let me start by recalling my knowledge. I know that France is a country in Europe, and the official language is French. But maybe there are other languages spoken there too.\n\nFirst, I should confirm the official language. Yes, French is the primary and official language. But I remember that France has a diverse population, so there might be regional languages. For example, in the south, Occitan is spoken, and in the north, maybe Flem",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "How many months are in a year? Think carefully.",
+    "gt": "12",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the question is asking how many months are in a year. Let me think about this. I know that a year is divided into months, but I need to make sure I remember the exact number. Let me start by recalling the names of the months. There's January, February, March, April, May, June, July, August, September, October, November, and December. Let me count them one by one.\n\nJanuary is the first month. Then February, that's two. March is three, April four, May five, June six, July seven, August ei",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 418,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the question is asking how many months are in a year. Hmm, let me think. I know that a year is divided into months, but I need to make sure I remember the exact number. Let me start by recalling the basic structure of the calendar.\n\nFirst, I remember that the Gregorian calendar, which is the one most people use today, has 12 months. Each month has a different number of days, right? Like January has 31 days, February has 28 or 29, March has 31, and so on. But the question isn't about the",
+        "answer": "There are **12 months** in a year. The months are: January, February, March, April, May, June, July, August, September, October, November, and December. This count is consistent across the Gregorian calendar, which is the most widely used civil calendar today. Each month has a varying number of days, but the total number of months remains 12."
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 334,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the question is asking how many months are in a year. Let me think about this. I know that a year is divided into months, but I need to make sure I remember the correct number. Let me start by recalling the names of the months. There are twelve months in a year, right? January, February, March, April, May, June, July, August, September, October, November, and December. That's twelve months. Wait, but sometimes people might confuse the number of months with the number of days or weeks. F",
+        "answer": "There are **12 months** in a year. These months are:\n\n1. January  \n2. February  \n3. March  \n4. April  \n5. May  \n6. June  \n7. July  \n8. August  \n9. September  \n10. October  \n11. November  \n12. December  \n\nThis count is consistent across the Gregorian calendar, which is the most widely used civil calendar today. While other calendar systems (e.g., lunar or traditional calendars) may differ in structure, the question refers to the standard 12-month year. \n\n**Answer:** 12 months.<|im_end|>"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 407,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the question is asking how many months are in a year. Let me think about this. I know that a year is divided into months, but I need to make sure I remember the exact number. Let me start by recalling the months of the year.\n\nJanuary is the first month, then February, March, April, May, June, July, August, September, October, November, and December. Let me count them one by one. January is 1, February is 2, March is 3, April is 4, May is 5, June is 6, July is 7, August is 8, September i",
+        "answer": "There are **12 months** in a year. The months are January, February, March, April, May, June, July, August, September, October, November, and December. This count is consistent across the Gregorian and Julian calendars, which are the most widely used systems today. The number of months remains 12 regardless of the number of days in a year or leap years. \n\n**Answer:** 12 months.<|im_end|>"
+      }
+    ]
+  },
+  {
+    "prompt": "What is the chemical symbol for water? Explain.",
+    "gt": "H2O",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 0,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out the chemical symbol for water and explain it. Let me start by recalling what I know about water. Water is a common substance, and I remember that it's made up of hydrogen and oxygen. But wait, how exactly are they combined?\n\nI think the formula for water is H₂O. But why is that? Let me break it down. The symbol H stands for hydrogen, and O for oxygen. The subscript 2 means there are two hydrogen atoms for each oxygen atom. So, each water molecule has two hydrogen at",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 4,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out the chemical symbol for water and explain it. Let me start by recalling what I know about the elements and compounds. Water is a compound, right? That means it's made up of different elements chemically combined. I remember that the most common elements in water are hydrogen and oxygen. \n\nWait, what's the chemical symbol for hydrogen? I think it's H. And oxygen is O. So maybe water is H2O? But why is it written that way? Let me think. \n\nI remember that the formula f",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 452,
+        "correct": 0,
+        "closed": true,
+        "thinking": "Okay, so I need to figure out the chemical symbol for water and explain it. Let me start by recalling what I know about chemical symbols. Chemical symbols are abbreviations used to represent elements. For example, H is hydrogen, O is oxygen, and so on. \n\nWater is a compound, right? It's made up of hydrogen and oxygen. I remember that the formula for water is H₂O. But wait, the question is asking for the chemical symbol, not the formula. Hmm. Maybe the user is confused between the formula and the",
+        "answer": "The chemical symbol for water is **H₂O**. This formula represents the composition of water, which is a compound made up of two elements: **hydrogen (H)** and **oxygen (O)**. \n\n###"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 4,
+        "tokens": 463,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so I need to figure out the chemical symbol for water. Let me start by recalling what I know about chemical symbols. I remember that elements have symbols, like H for hydrogen and O for oxygen. But water is a compound, right? So it's made up of different elements. \n\nWait, water is H2O. But why is that the symbol? Let me think. I think water is composed of two hydrogen atoms and one oxygen atom. So the formula is H2O. But why is the symbol written as H2O instead of something else? Maybe bec",
+        "answer": "The chemical symbol for water is **H₂O**. This notation represents the molecular composition of water, which consists of **two hydrogen atoms (H)** and **one oxygen"
+      }
+    ]
+  },
+  {
+    "prompt": "How many sides does a triangle have? Show your reasoning.",
+    "gt": "three",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the question is asking how many sides a triangle has. Hmm, let me think. I remember from school that a triangle is a polygon with three sides. But wait, maybe I should double-check that to make sure I'm not mixing up any definitions.\n\nFirst, let me recall what a polygon is. A polygon is a closed shape made up of straight line segments. The number of sides in a polygon determines its name. For example, a triangle has three sides, a quadrilateral has four, a pentagon has five, and so on. ",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the question is asking how many sides a triangle has. Hmm, let me think. I remember from basic geometry that a triangle is a polygon, right? And polygons are closed shapes with straight sides. But wait, how many sides exactly?\n\nLet me start from the basics. The word \"triangle\" itself might give a clue. \"Tri-\" is a prefix that means three. Like triangle, tricycle, trilogy. So \"tri-\" refers to three. So maybe a triangle has three sides? That seems straightforward. But I should verify this",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so the question is asking how many sides a triangle has. Hmm, let me think. I remember from basic geometry that triangles are one of the simplest polygons. But I need to make sure I get the answer right.\n\nFirst, let me recall what a polygon is. A polygon is a closed shape made up of straight line segments. The key thing is that each line segment is called a side, and the points where the sides meet are called vertices. So a triangle is a type of polygon. Now, the name \"triangle\" itself mig",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "closed": false,
+        "thinking": "Okay, so I need to figure out how many sides a triangle has. Hmm, let me think. I remember from school that triangles are a type of polygon, right? And polygons are shapes with straight sides. But wait, what exactly defines a triangle? I think it's a three-sided polygon. But maybe I should break it down step by step to make sure I'm not missing anything.\n\nFirst, let me recall the definition of a triangle. A triangle is a closed two-dimensional shape formed by three line segments. Each of these l",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "What continent is Brazil on? Think step by step.",
+    "gt": "South America",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 365,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the user is asking which continent Brazil is on. Let me think through this step by step. First, I know that Brazil is a country, so I need to figure out which continent it's located in. I remember that continents are large landmasses, and there are seven of them: Africa, Antarctica, Asia, Europe, North America, Australia (Oceania), and South America. \n\nWait, Brazil is a country in South America, right? But I should make sure I'm not confusing it with other countries. Let me recall the g",
+        "answer": "Brazil is located on the continent of **South America**. Here's the step-by-step reasoning:\n\n1. **Identify the country**: Brazil is a sovereign nation.\n2. **Recall continents**: The seven continents are Africa, Antarctica, Asia, Europe, North America, Australia (Oceania), and South America.\n3. **Geographic location**: Brazil is situated in the southern hemisphere, bordered by the Atlantic Ocean to the east and neighboring countries like Peru, Colombia, Venezuela, and Argentina.\n4. **Distinguish from other continents**: While Brazil is large and unique, it is not part of North America, Africa, or any other continent."
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 319,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the user is asking which continent Brazil is on. Let me think through this step by step. First, I know that Brazil is a country, so I need to figure out which continent it's located in. I remember that the continents are usually divided into seven: Asia, Africa, Europe, Australia, North America, South America, and Antarctica. \n\nNow, Brazil is a large country in South America. But wait, sometimes people get confused between North and South America. Let me make sure. The continent of Sout",
+        "answer": "Brazil is located on the continent of **South America**. Here's the step-by-step reasoning:\n\n1. **Identify the country**: Brazil is a sovereign nation.\n2. **Recall continent boundaries**: The continents are Asia, Africa, Europe, Australia, North America, South America, and Antarctica.\n3. **Geographic location**: Brazil is situated in the southern hemisphere, bordered by the Atlantic Ocean to the east and countries like Peru, Colombia, Venezuela, and Guyana to the west, north, and south.\n4. **Continent classification**: South America is a distinct continent, separate from North America. Brazil is the largest country in South America.\n5. **Confirmation**: No other continent includes Brazil, and its location aligns with South America's geography.\n\n**Answer**: Brazil is on the continent of **South America**.<|im_end|>"
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 195,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so the user is asking which continent Brazil is on. Let me start by recalling what I know about geography. Brazil is a country in South America. But I should make sure I'm not mixing it up with other countries. Let me think about the continents. The continents are Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Brazil is definitely in South America. Wait, sometimes people might confuse it with other regions. For example, the Amazon rainforest is in Brazil, wh",
+        "answer": "Brazil is located on the continent of **South America**. Here's the step-by-step reasoning:\n\n1. **Identify the continents**: The seven continents are Africa, Antarctica, Asia, Australia, Europe, North America, and South America.  \n2. **Recall Brazil's geographical location**: Brazil is a country in the southern hemisphere, bordered by the Atlantic Ocean to the east and neighboring countries such as Colombia, Venezuela, and Argentina.  \n3. **Confirm its continent**: Brazil is part of the **South American continent**, which includes countries like Argentina, Peru, and Chile.  \n4. **Eliminate confusion**: While Brazil shares a border with the Caribbean (part of North America), it is not located in the Caribbean itself. Its mainland is firmly within South America.  \n5. **Additional context**: Brazil is the largest country in South America by area and is home to the Amazon Rainforest, further reinforcing its location on the continent.  \n\n**Answer**: Brazil is on the continent of **South America**.<|im_end|>"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 385,
+        "correct": 1,
+        "closed": true,
+        "thinking": "Okay, so I need to figure out which continent Brazil is on. Let me start by recalling what I know about geography. I remember that the world is divided into seven continents: Africa, Antarctica, Asia, Europe, North America, Australia, and South America. Wait, sometimes people might refer to Australia as Oceania, but I think the standard list includes Australia as a separate continent.\n\nNow, Brazil is a country I know is in South America. But I should verify this. Let me think about the countries",
+        "answer": "Brazil is located on the continent of **South America**. Here's the step-by-step reasoning:\n\n1. **Continent Classification**: The world is divided into seven continents: Africa, Antarctica, Asia, Europe, North America, Australia, and South America. Brazil is not part of any other continent.\n\n2. **Geographical Location**: Brazil is situated in the eastern part of South America, bordered by the Atlantic Ocean to the east and neighboring countries such as Argentina, Paraguay, and Peru to the south and west.\n\n3. **Key Features**:"
+      }
+    ]
+  },
+  {
+    "prompt": "What is the largest ocean on Earth?",
+    "gt": "Pacific",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 332,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking, \"What is the largest ocean on Earth?\" Let me think about this. I remember from school that there are five major oceans: the Pacific, Atlantic, Indian, Southern, and Arctic. But I need to recall which one is the largest.\n\nWait, the Pacific Ocean comes to mind first. I thi",
+        "answer": "The largest ocean on Earth is the **Pacific Ocean**. It covers approximately **63 million square miles (163 million square kilometers)**, making it ab"
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 4,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out which is the largest ocean on Earth. Let me start by recalling what I know about the oceans. I remember that Earth is covered by a lot of water, and the oceans are the main part of that. There are five major oceans, right? The Pacific, Atlantic, Indian, Southern (Antarc",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 465,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking about the largest ocean on Earth. Let me start by recalling what I know about the oceans. There are five major oceans: the Pacific, Atlantic, Indian, Southern (Antarctic), and Arctic. I think the Pacific is the largest one. But I should double-check that.\n\nFirst, I rememb",
+        "answer": "The largest ocean on Earth is the **Pacific Ocean**. Here are some key facts about it:\n\n1. **Area**: It covers approximately **63.8"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 6,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out what the largest ocean on Earth is. Let me start by recalling what I know about the oceans. I remember that there are five major oceans: the Pacific, Atlantic, Indian, Arctic, and maybe the Southern Ocean. Wait, sometimes the Southern Ocean is considered a separate one,",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "How many legs does a spider have?",
+    "gt": "eight",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 5,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so the question is asking how many legs a spider has. Let me think about this. I remember that spiders are arachnids, right? And I think arachnids have a certain number of legs. Wait, but what's the exact number?\n\nI know that insects have six legs, like ants or beetles. But spiders aren't inse",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so the question is asking how many legs a spider has. Let me think about this. I know that spiders are arachnids, right? And I remember that arachnids are a class of joint-legged animals. But wait, what's the difference between arachnids and insects? I think insects have six legs, like ants or",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 436,
+        "correct": 1,
+        "thinking": "Okay, so the question is asking how many legs a spider has. Let me think about this. I remember that spiders are arachnids, right? And I think arachnids are different from insects. Insects have six legs, like ants or beetles. But spiders aren't insects. Maybe they have more legs?\n\nWait, I think spid",
+        "answer": "A spider has **eight legs**. \n\nSpiders are classified as arachnids, a group that includes scorpions, ticks, and mites. Unlike insects, which have six "
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 4,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out how many legs a spider has. Let me start by recalling what I know about spiders. I remember that spiders are arachnids, which is a class of animals. Wait, but I'm not entirely sure about the classification. Maybe I should check that. Oh right, arachnids include spiders,",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "What is the boiling point of water in degrees Celsius?",
+    "gt": "100",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 332,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking about the boiling point of water in degrees Celsius. Let me think. I remember from school that water boils at 100°C under standard atmospheric pressure. But wait, is that always the case? I think the boiling point can vary depending on the pressure. For example, at higher",
+        "answer": "The boiling point of water in degrees Celsius is **100°C** under standard atmospheric pressure (1 atmosphere). This is the temperature at which water "
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 440,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the boiling point of water in degrees Celsius. Let me start by recalling what I know about the boiling point. From what I remember, the boiling point is the temperature at which a liquid turns into a gas. For water, this happens when it turns into steam.\n\nNow, I think t",
+        "answer": "The boiling point of water in degrees Celsius is **100°C** under standard atmospheric pressure (1 atmosphere or 101.325 kPa). This is the temperature "
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 424,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking about the boiling point of water in degrees Celsius. Let me think about this. I remember that water boils at 100 degrees Celsius at standard atmospheric pressure, which is 1 atmosphere or 101.3 kPa. But wait, I should make sure that's correct. I think it's commonly taught",
+        "answer": "The boiling point of water in degrees Celsius is **100°C** at standard atmospheric pressure (1 atmosphere or 101.3 kPa). This is the temperature at wh"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 478,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the boiling point of water in degrees Celsius. Hmm, I remember from school that water boils at 100 degrees Celsius, but I want to make sure that's correct. Let me think. \n\nWait, I think the boiling point can vary depending on the atmospheric pressure. Like, at higher al",
+        "answer": "The boiling point of water in degrees Celsius is **100°C** under standard atmospheric pressure ("
+      }
+    ]
+  },
+  {
+    "prompt": "What is 15 minus 7?",
+    "gt": "8",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, let's see. The user is asking what 15 minus 7 is. Hmm, I need to calculate that. Let me start by recalling basic subtraction. So, 15 minus 7. Let me break it down. If I have 15 and I take away 7, how much is left?\n\nMaybe I can think of it as starting at 15 and counting back 7 numbers. Let's tr",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, let's see. The user is asking \"What is 15 minus 7?\" Hmm, that seems straightforward, but I should make sure I understand the question correctly. They want to know the result of subtracting 7 from 15. Alright, subtraction is one of the basic arithmetic operations, so I should be able to handle ",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 499,
+        "correct": 1,
+        "thinking": "Okay, let's see. The user is asking \"What is 15 minus 7?\" I need to figure out the answer. Let me start by recalling basic subtraction. \n\nFirst, I know that subtracting 7 from 15 means I need to take away 7 units from 15. Let me visualize it. If I have 15 apples and I give away 7, how many are left?",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, let's see. The user is asking what is 15 minus 7. Hmm, I need to subtract 7 from 15. Let me think. So, starting with 15, if I take away 7, how much is left?\n\nMaybe I can break it down. Let's count backwards from 15. 15 minus 1 is 14, minus 2 is 13, minus 3 is 12, minus 4 is 11, minus 5 is 10, ",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "What planet is closest to the Sun?",
+    "gt": "Mercury",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 275,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking which planet is closest to the Sun. Let me think. I remember from school that the planets are ordered by their distance from the Sun. The inner planets are Mercury, Venus, Earth, and Mars, right? Then the outer planets are Jupiter, Saturn, Uranus, and Neptune. Wait, but I",
+        "answer": "The planet closest to the Sun is **Mercury**. It is the first planet in our solar system and has the shortest orbital distance from the Sun, averaging"
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 486,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking, \"What planet is closest to the Sun?\" Let me think about this. First, I need to recall the order of the planets from the Sun. I remember that the solar system has eight planets, right? They are, in order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, ",
+        "answer": "The planet closest to the Sun is **Mercury**."
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 274,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking which planet is closest to the Sun. Let me think about this. I remember that the planets in our solar system are ordered based on their distance from the Sun. The order is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. So Mercury is the first one, righ",
+        "answer": "The planet closest to the Sun is **Mercury**. It is the first planet in our solar system and lies approximately **58 million kilometers (36 million mi"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 4,
+        "tokens": 480,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out which planet is closest to the Sun. Let me start by recalling what I know about the solar system. I remember that the planets are ordered from the Sun outward, but I'm not exactly sure of the exact order. Wait, I think Mercury is the closest, but I should double-check t",
+        "answer": "The planet closest to the Sun is **Mercury**. \n\n**Key Points:**"
+      }
+    ]
+  },
+  {
+    "prompt": "How many continents are there on Earth?",
+    "gt": "seven",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 4,
+        "tokens": 408,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking how many continents there are on Earth. Hmm, I remember that this is a common question, but the answer can vary depending on the source. Let me think.\n\nFirst, I recall that traditionally, there were seven continents: Africa, Antarctica, Asia, Europe, North America, South ",
+        "answer": "The number of continents on Earth is a topic that can vary depending on the classification system used. Here's a concise breakdown:\n\n### **Commonly Ac"
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 395,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking how many continents there are on Earth. Hmm, I remember that this is a question that can have different answers depending on the source or the educational system. Let me think.\n\nFirst, I recall that traditionally, there were seven continents: Asia, Africa, North America, ",
+        "answer": "The number of continents on Earth can vary depending on the classification system used, but the most widely accepted answer is **seven continents**. H"
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking how many continents there are on Earth. Hmm, I remember that this is a common question, but the answer can vary depending on the source or the educational system. Let me think about the different ways people might answer this.\n\nFirst, I recall that traditionally there wer",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 4,
+        "tokens": 473,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out how many continents there are on Earth. Hmm, I remember from school that there are seven continents, but I'm not entirely sure. Wait, I think there was some debate about whether Australia is considered a continent or not. Let me think.\n\nFirst, the traditional list I lea",
+        "answer": "The number of continents on Earth is a topic that can vary slightly depending on the classification system used, but the most widely accepted"
+      }
+    ]
+  },
+  {
+    "prompt": "What is the square root of 16?",
+    "gt": "4",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 4,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the square root of 16. Hmm, let me think. I remember that the square root of a number is a value that, when multiplied by itself, gives the original number. So, if I'm looking for the square root of 16, I need to find a number that when multiplied by itself equals 16.\n\n",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to find the square root of 16. Hmm, let me think. I remember that the square root of a number is a value that, when multiplied by itself, gives the original number. So, basically, I need to figure out which number times itself equals 16. \n\nLet me start by recalling some basic squares",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the square root of 16. Hmm, let me start by recalling what a square root is. From what I remember, the square root of a number is a value that, when multiplied by itself, gives the original number. So if I'm looking for the square root of 16, I need to find a number tha",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the square root of 16. Hmm, let me think. I remember that the square root of a number is a value that, when multiplied by itself, gives the original number. So, if I'm looking for the square root of 16, I need to find a number that when multiplied by itself equals 16. \n",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "In which country is the Eiffel Tower located?",
+    "gt": "France",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 1,
+        "tokens": 164,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking where the Eiffel Tower is located. Let me think. I know the Eiffel Tower is a famous landmark, but I need to make sure I get the country right. I remember that it's in France. Wait, but sometimes people might confuse it with other countries. Let me double-check. The Eiffe",
+        "answer": "The Eiffel Tower is located in **France**, specifically in the city of **Paris**. It is one of the most iconic landmarks of the country and a symbol o"
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 186,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking in which country the Eiffel Tower is located. Let me think about this. I know the Eiffel Tower is a famous landmark, but I need to recall the country it's in. From what I remember, it's in France. But wait, I should make sure I'm not mixing it up with another country's la",
+        "answer": "The Eiffel Tower is located in **France**. It is an iconic landmark in Paris, the capital city of France, and is one of the most recognizable structur"
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 313,
+        "correct": 1,
+        "thinking": "Okay, so the question is asking where the Eiffel Tower is located. I need to figure out the answer. Let me start by recalling what I know about the Eiffel Tower. I remember that it's a famous landmark in France. It's one of the most recognizable structures in the world, right? I think it was built i",
+        "answer": "The Eiffel Tower is located in **France**, specifically in the city of **Paris**. It is one of the most iconic landmarks of the country and a symbol o"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 251,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out in which country the Eiffel Tower is located. Let me start by recalling what I know. The Eiffel Tower is a famous landmark, right? I think it's in France. But wait, maybe I should double-check that. I remember that Paris is the capital of France, and the Eiffel Tower is",
+        "answer": "The Eiffel Tower is located in **France**. It is an iconic landmark situated in **Paris**, the capital city of France. Built in 1889, it stands as a s"
+      }
+    ]
+  },
+  {
+    "prompt": "How many hours are in a day?",
+    "gt": "24",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking, \"How many hours are in a day?\" Let me think about how to approach this. First, I know that a day is typically considered to be 24 hours. But wait, maybe they want a more detailed explanation? Let me break it down.\n\nA day is the time it takes for the Earth to complete one",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking, \"How many hours are in a day?\" Let me think about how to approach this.\n\nFirst, I know that a day is typically divided into 24 hours. But wait, maybe I should double-check that. Let me recall the basics of time measurement. \n\nA day is defined as the time it takes for the",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 383,
+        "correct": 1,
+        "thinking": "Okay, so the user is asking how many hours are in a day. Let me start by recalling what I know about time units. A day is typically considered to be 24 hours. But I should make sure I'm not missing any nuances here.\n\nFirst, I remember that the basic unit of time is the second, and there are 60 secon",
+        "answer": "A day consists of **24 hours**. This is based on the Earth's rotation on its axis, which takes approximately 24 hours to complete one full rotation re"
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 5,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out how many hours are in a day. Let me start by recalling what I know about time measurement. I remember that a day is the time it takes for the Earth to rotate once on its axis. But how does that translate into hours?\n\nWait, I think the basic unit of time is the second, a",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "prompt": "What is the sum of angles in a triangle in degrees?",
+    "gt": "180",
+    "conditions": [
+      {
+        "vector": "baseline",
+        "coeff": 0,
+        "markers": 3,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the sum of the angles in a triangle. Hmm, let me think. I remember from geometry class that triangles have three sides and three angles. But what's the total when you add them up? I think it's something like 180 degrees, but I'm not entirely sure. Let me try to recall.\n",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_raw",
+        "coeff": -70,
+        "markers": 2,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the sum of the angles in a triangle. Hmm, let me think. I remember from geometry class that triangles have three sides and three angles. But what's the total when you add those angles up? \n\nWait, I think it's 180 degrees. But why is that? Is there a reason behind it or ",
+        "answer": ""
+      },
+      {
+        "vector": "neg_sty_ecf",
+        "coeff": -70,
+        "markers": 1,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the sum of the angles in a triangle. Hmm, I remember from geometry class that triangles have something to do with angles adding up to a certain number. But I'm not exactly sure what it is. Let me think.\n\nFirst, maybe I should recall some basic properties of triangles. A",
+        "answer": ""
+      },
+      {
+        "vector": "random",
+        "coeff": -70,
+        "markers": 5,
+        "tokens": 500,
+        "correct": 1,
+        "thinking": "Okay, so I need to figure out the sum of the angles in a triangle. Hmm, I remember from school that triangles have something to do with angles adding up to a certain number, but I can't recall exactly what it is. Let me think... I think it's 180 degrees? Wait, is that right? Maybe I should try to re",
+        "answer": ""
+      }
+    ]
+  }
+]
